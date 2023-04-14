@@ -1,1 +1,2 @@
 Hi Dev today we are discussing about git
+Git will helps to store the code
